@@ -1,6 +1,6 @@
 **Horizon** — No Microsoft Login
 
-A fork of "Horizon" (https://github.com/horizon-rust/horizon) with Microsoft authentication removed.
+A fork of [Horizon](https://github.com/horizon-rust/horizon) with Microsoft authentication removed.
 
 This fork provides two authentication options:
 
